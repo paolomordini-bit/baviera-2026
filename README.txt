@@ -1,2 +1,2 @@
-Baviera & Oktoberfest 2026 — versione 1.0 visuale
-Apri index.html per l'anteprima. Le fotografie vengono caricate online al primo accesso e poi possono essere memorizzate dalla PWA.
+Baviera & Oktoberfest 2026 — PWA v1.3
+Aggiornamento: sezione Birre & Luoghi ampliata con schede, birre consigliate, opzioni analcoliche/low alcohol, Google Maps e Passaporto delle Birre persistente sul dispositivo.
