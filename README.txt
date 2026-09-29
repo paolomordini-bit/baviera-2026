@@ -7,3 +7,5 @@ Aggiornamenti principali:
 - 4 ottobre: Monaco 09:00, pausa flessibile, Massari 15:00, Genova.
 
 Per GitHub Pages sostituire index.html, manifest.webmanifest, sw.js e README.txt nel repository esistente.
+
+REV.2: verificati e ripristinati percorsi Google Maps, passeggiate Monaco, Piano A/B Kelheim-Weltenburg e rientro da Weltenburg.
